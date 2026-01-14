@@ -12,6 +12,8 @@ A native Android application designed for cineastes to discover, track, and gami
 
 Cinephile goes beyond simple movie listing. It is an intelligent platform that learns from user interactions to build a personalized taste profile, manages complex user-defined collections locally, and generates dynamic trivia quizzes based on the user's actual viewing history.
 
+Note: This project was originally developed on the University of Strasbourg's internal GitLab. Migrated to GitHub for portfolio purposes.
+
 ## Table of Contents
 
 - [Detailed Feature Breakdown](#detailed-feature-breakdown)
